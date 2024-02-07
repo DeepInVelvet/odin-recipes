@@ -1,0 +1,48 @@
+body {
+  background-color: bisque;
+}
+
+h1 {
+  text-align: center;
+  font-size: 64px;
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: seagreen;
+  color:rgb(44, 33, 21)
+}
+
+.main-header {
+  text-align: center;
+  font-size: 64px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: rgb(43, 148, 122);
+  color: white;
+}
+
+.home-links {
+  text-align: center;
+  list-style-type: none;
+}
+
+a {
+  font-size: 36px;
+  font-family: Georgia, serif;
+  text-decoration: none;
+  color: white;
+}
+
+.recipe1 {
+  background-color: rgb(180, 115, 142);
+}
+
+.recipe2 {
+  background-color: rgb(224, 189, 142);
+}
+
+.recipe3 {
+  background-color: coral;
+}
+
+img {
+  text-align: center;
+}
